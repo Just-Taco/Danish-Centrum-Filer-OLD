@@ -4,3 +4,5 @@ Og der er ikke så mange erros som i devo og så er det Danish Centrum ting
 
 Alt dette er lavet af Taco
 Alt copi er tilladt
+
+NAVNET MÅ IKKE COPIRETS
