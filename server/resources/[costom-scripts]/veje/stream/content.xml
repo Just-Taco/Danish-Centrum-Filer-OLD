@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_RoadsOfEurope:/%PLATFORM%/textures.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <locked value="true"/>
+	  <disabled value="true"/>
+	  <persistent value="true"/>
+	  <overlay value="true"/>
+    </Item>
+		
+		
+		
+	
+  </dataFiles>
+  <contentChangeSets>
+	<Item>
+	  <changeSetName>RoadsOfEurope_AUTOGEN</changeSetName>
+	  <filesToDisable />
+	  <filesToEnable>
+      <Item>dlc_RoadsOfEurope:/%PLATFORM%/textures.rpf</Item>
+			
+			
+			
+			
+			
+			
+		
+	  </filesToEnable>
+	  <txdToLoad />
+	  <txdToUnload />
+	  <residentResources />
+	  <unregisterResources />
+	</Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>
