@@ -110,7 +110,7 @@ CREATE TABLE `vrp_users` (
   `banned` tinyint(1) DEFAULT NULL,
   `DmvTest` int(11) NOT NULL DEFAULT 0,
   `ban_reason` varchar(250) DEFAULT NULL,
-  `discord` varchar(250) DEFAULT NULL
+  `DD` varchar(250) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
