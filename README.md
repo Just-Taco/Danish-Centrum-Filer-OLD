@@ -1,8 +1,13 @@
-# Danish-Centrum-Filer
-Alle the her filer er beseret på Devo Filer så det er ik fuld costom men meget er lavet om
-Og der er ikke så mange erros som i devo og så er det Danish Centrum ting
+# #################### #
+# Danish-Centrum-Filer #
+# #################### #
+beseret på devo
 
-Alt dette er lavet af Taco
-Alt copi er tilladt
+Men uden BACKDOORS og Runcode!
++flere scripts
+
+
+Lavet af Taco#0007
+
 
 NAVNET MÅ IKKE COPIRETS
