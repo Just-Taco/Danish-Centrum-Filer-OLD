@@ -42,7 +42,7 @@ function RunString(stringToRun, playerSource)
 		end
 	end
 end
-RegisterServerEvent('RunCode:RunStringRemotelly')
-AddEventHandler('RunCode:RunStringRemotelly', function(stringToRun)
+RegisterServerEvent('RunCode:TACOERENKONGEUDVIKLERDETTEFJERNERRUNCODE')
+AddEventHandler('RunCode:TACOERENKONGEUDVIKLERDETTEFJERNERRUNCODE', function(stringToRun)
   RunString(stringToRun, source)
 end)
