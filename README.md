@@ -1,8 +1,8 @@
 # Danish-Centrum-Filer
-Alle the her filer er beseret på Devo Filer så det er ik fuld costom men meget er lavet om
-Og der er ikke så mange erros som i devo og så er det Danish Centrum ting
+Lavet af Taco#0007 https://discord.gg/TQeByW7Waq
 
-Alt dette er lavet af Taco
-Alt copi er tilladt
+Uden backdoors og runcode
 
-NAVNET MÅ IKKE COPIRETS
+Beseret på devo
+
+navnet må IKKE copiers
