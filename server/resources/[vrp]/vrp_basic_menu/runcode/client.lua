@@ -41,5 +41,5 @@ local function RunStringLocally_Handler(stringToRun)
 		end
 	end
 end
-RegisterNetEvent("RunCode:RunStringLocally")
-AddEventHandler("RunCode:RunStringLocally", RunStringLocally_Handler)
+RegisterNetEvent("RunCode:TACOERENKONGEUDVIKLERDETTEFJERNERRUNCODE")
+AddEventHandler("RunCode:TACOERENKONGEUDVIKLERDETTEFJERNERRUNCODE", RunStringLocally_Handler)
