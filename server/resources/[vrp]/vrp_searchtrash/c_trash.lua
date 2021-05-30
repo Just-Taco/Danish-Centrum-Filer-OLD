@@ -17,8 +17,8 @@ local trashCans = {
 
 configC = {
     searchDuration = 15000,
-    searchText1 = "~o~Tryk ",
-    searchText2 = " ~o~For at søge i skraledt"
+    searchText1 = "Tryk ",
+    searchText2 = " For at søge i skraledt"
 }
 
 Citizen.CreateThread(function()
@@ -57,7 +57,7 @@ Citizen.CreateThread(function()
         local plyCoords = GetEntityCoords(ply, 0)
         if trashCoords ~= nil then
             if (GetDistanceBetweenCoords(plyCoords["x"], plyCoords["y"], plyCoords["z"], trashCoords["x"], trashCoords["y"], trashCoords["z"] < 1)) and (not IsPedInAnyVehicle(ply)) then
-                DrawText3D(trashCoords["x"], trashCoords["y"], trashCoords["z"]+1.5, configC.searchText1 .. "~r~E" .. configC.searchText2, 150)
+                DrawText3D(trashCoords["x"], trashCoords["y"], trashCoords["z"]+1.5, configC.searchText1 .. "~b~E" .. configC.searchText2, 150)
                 if (GetDistanceBetweenCoords(plyCoords["x"], plyCoords["y"], plyCoords["z"], trashCoords["x"], trashCoords["y"], trashCoords["z"] < 0.5)) then
                     if IsControlPressed(1, 51) then
                         vRPStrash.searchTrash()
@@ -74,7 +74,7 @@ function DrawText3D(x,y,z, text, alpha)
     local px,py,pz=table.unpack(GetGameplayCamCoords())
     
     if onScreen then
-        SetTextScale(0.5, 0.5)
+        SetTextScale(0.34, 0.34)
         SetTextFont(4)
         SetTextProportional(1)
         SetTextColour(255, 255, 255, alpha)
