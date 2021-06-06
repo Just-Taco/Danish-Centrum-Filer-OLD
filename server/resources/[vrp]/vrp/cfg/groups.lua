@@ -10,7 +10,7 @@ local cfg = {}
 --- (you have direct access to vRP and vRPclient, the tunnel to client, in the config callbacks)
 
 cfg.groups = {
-  ["ledelse11"] = {
+  ["ledelse"] = {
     _config = {
 		onjoin = function(player) 
 			TriggerClientEvent("pNotify:SendNotification", player,{text = "Ledelse rank tildelt.", type = "success", queue = "global", timeout = 5000, layout = "centerRight",animation = {open = "gta_effects_fade_in", close = "gta_effects_fade_out"}})
