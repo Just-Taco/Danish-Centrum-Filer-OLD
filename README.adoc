@@ -1,6 +1,6 @@
 # Danish-Centrum-Filer
 
-image::readme folder/danishcentrumssindelogo.png[vRP,300]
+image::readme folder/danishcentrumssindelogo.png[vRP]
 
 https://discord.gg/TQeByW7Waq
 
