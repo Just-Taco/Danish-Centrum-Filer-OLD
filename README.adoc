@@ -45,4 +45,4 @@ dc-info2
 
 dc-info3
 
-INFO: Opdateringer kommer til filerne snart!
+NOTE: Opdateringer kommer til filerne snart!
