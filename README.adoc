@@ -49,4 +49,5 @@ NOTE: Opdateringer kommer til filerne snart!
 # Discord server
 
 https://discord.gg/UwV724zyVZ
+
 image::readme folder/discord-banner.jpg[fejl, 700, 200]
