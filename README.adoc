@@ -45,6 +45,8 @@ dc-info2
 
 dc-info3
 
+dc-avis
+
 NOTE: Opdateringer kommer til filerne snart!
 
 
