@@ -39,6 +39,8 @@ runcode
 
 **Tilføjet**
 
+dc-searchtrash
+
 dc-info2
 
 dc-info3
