@@ -2,10 +2,9 @@
 
 image::readme folder/danishcentrumssindelogo.png[vRP]
 
-https://discord.gg/TQeByW7Waq
+# Hurtigt info
 
-Uden backdoors og runcode
-
-Beseret på devo
-
-navnet må IKKE copiers
+Discord: https://discord.gg/UwV724zyVZ
+Runcode Fjernet
+Backdoors Fjernet!
+Auth: Taco#0007
