@@ -4,8 +4,6 @@ image::readme folder/danishcentrumssindelogo.png[vRP]
 
 # Hurtigt info
 
-Discord: https://discord.gg/UwV724zyVZ
-
 Runcode Fjernet
 
 Backdoors Fjernet!
@@ -46,3 +44,8 @@ dc-info2
 dc-info3
 
 NOTE: Opdateringer kommer til filerne snart!
+
+
+# Discord server
+
+image::readme folder/danishcentrumssindelogo.png[https://discord.gg/UwV724zyVZ]
