@@ -33,13 +33,17 @@ Credit: Just-Taco
 
 === **Changelog 1.1**
 
--backdoors
+**Fjernet**
 
--runcode
+backdoors
 
-+dc-info2
+runcode
 
-+dc-info3
+**Tilføjet**
+
+dc-info2
+
+dc-info3
 
 
 **Opdateringer kommer**
