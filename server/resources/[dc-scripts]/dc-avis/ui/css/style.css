@@ -1,0 +1,75 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  overflow: hidden;
+}
+
+.container{
+  position: relative;
+  top: 80px;
+  left: 465px;
+  width: 1000px;
+  height: 900px;
+}
+
+.container .content{
+  height: 850px;
+}
+
+.container .content .background{
+  background: url("../images/background.png");
+  height: 800px;
+  width: 1000px;
+}
+
+.container .content .background .billede{
+  top: 20px;
+  left: 20px;
+  position: relative;
+  height: 1600px;
+  display: block;
+  block-size: 760px;
+  overflow: scroll;
+  width: 960px;
+}
+
+/* scroll */
+/* width */
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 10px;
+}
+
+/* close */
+.btnClose {
+  position: relative;
+  left: 950px;
+  top: 20px;
+  font-size: 15px;
+  color: #ff0000;
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
+
+.btnClose:hover {
+  color: #d3000e;
+}

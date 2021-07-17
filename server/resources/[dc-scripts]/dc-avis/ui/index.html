@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/v4-shims.css">
+    </head>
+    <body>
+        <v-app id="avis">
+            <v-content>
+                <div id="avis_SelectAviss" v-show="showAvis">
+                    <div class="container">
+                        <div class="content">
+                            <div class="background">
+                                <button class="btnClose" @click="CloseMenu()"><i class="fas fa-times fa-2x"></i></button>
+                                <div class="billede">
+                                    <img src="images/avis.png">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </v-content>
+        </v-app>
+        <script src="libraries/axios.min.js"></script>
+        <script src="libraries/vue.min.js"></script>
+        <script src="libraries/vuetify.js"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
