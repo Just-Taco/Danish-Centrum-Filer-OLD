@@ -5,6 +5,9 @@ image::readme folder/danishcentrumssindelogo.png[vRP]
 # Hurtigt info
 
 Discord: https://discord.gg/UwV724zyVZ
+
 Runcode Fjernet
+
 Backdoors Fjernet!
+
 Auth: Taco#0007
