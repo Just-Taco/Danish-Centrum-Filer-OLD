@@ -45,5 +45,4 @@ dc-info2
 
 dc-info3
 
-
-**Opdateringer kommer**
+NOTE: Opdateringer kommer til filerne snart!
