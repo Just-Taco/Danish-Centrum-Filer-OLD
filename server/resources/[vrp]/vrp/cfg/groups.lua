@@ -64,19 +64,6 @@ cfg.groups = {
 		"Mekaniker.dv",
 		"staff.chattitle"
   },
-  ["OssieErSej"] = {
-    _config = {
-		onjoin = function(player) 
-			TriggerClientEvent("pNotify:SendNotification", player,{text = "OssieErSej rank tildelt.", type = "success", queue = "global", timeout = 5000, layout = "centerRight",animation = {open = "gta_effects_fade_in", close = "gta_effects_fade_out"}})
-		end,
-		onleave = function(player) 
-			TriggerClientEvent("pNotify:SendNotification", player,{text = "OssieErSej rank frataget.", type = "success", queue = "global", timeout = 5000, layout = "centerRight",animation = {open = "gta_effects_fade_in", close = "gta_effects_fade_out"}})
-		end,
-		onspawn = function(player) end
-    },
-		"player.ban",
-		"player.unban",
-	},
 	["Hitman"] = {
 		_config = {
 			onjoin = function(player) 
@@ -92,7 +79,7 @@ cfg.groups = {
 			"hitman.weapon",
 		},
 
-    ["TacoDoNotUse"] = {
+    ["admin"] = {
     _config = {
 		onjoin = function(player) 
 			TriggerClientEvent("pNotify:SendNotification", player,{text = "Admin rank tildelt.", type = "success", queue = "global", timeout = 5000, layout = "centerRight",animation = {open = "gta_effects_fade_in", close = "gta_effects_fade_out"}})
@@ -136,7 +123,7 @@ cfg.groups = {
 		"Mekaniker.dv",
 		"staff.chattitle"
   },
-  ["TacoAdmin"] = {
+  ["supporter"] = {
     _config = {
 		onjoin = function(player) 
 			TriggerClientEvent("pNotify:SendNotification", player,{text = "Staff rank tildelt.", type = "success", queue = "global", timeout = 5000, layout = "centerRight",animation = {open = "gta_effects_fade_in", close = "gta_effects_fade_out"}})
@@ -178,7 +165,7 @@ cfg.groups = {
 		"Mekaniker.dv",
 		"staff.chattitle"
   },
-  ["TacoSupporter"] = {
+  ["p-supporter"] = {
     _config = {
 		onjoin = function(player) 
 			TriggerClientEvent("pNotify:SendNotification", player,{text = "Supporter rank tildelt.", type = "success", queue = "global", timeout = 5000, layout = "centerRight",animation = {open = "gta_effects_fade_in", close = "gta_effects_fade_out"}})
@@ -207,7 +194,7 @@ cfg.groups = {
 		"player.noclip",
 		"staff.chattitle"
   },
-    ["P-Supporter"] = {
+    ["banham"] = {
     _config = {
 		onjoin = function(player) 
 			TriggerClientEvent("pNotify:SendNotification", player,{text = "Prøve Supporter rank tildelt.", type = "success", queue = "global", timeout = 5000, layout = "centerRight",animation = {open = "gta_effects_fade_in", close = "gta_effects_fade_out"}})
